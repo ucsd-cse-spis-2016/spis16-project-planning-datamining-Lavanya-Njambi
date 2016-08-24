@@ -14,3 +14,5 @@ We can have a place for users to review or leave short comments (character limit
 Categorize songs based on keywords/titles that a user can look up to find music.
 
 Based on the user's answers, the computer will recommend songs or artists.
+
+Using data, we can correlate age groups and their preferred genresof music.
